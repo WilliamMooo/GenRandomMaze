@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Maze.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Maze.dir\\src\\Maze.cpp.obj -c C:\\Users\\96101\\Desktop\\Maze\\src\\Maze.cpp",
+  "file": "C:/Users/96101/Desktop/Maze/src/Maze.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Maze.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Maze.dir\\src\\Stack.cpp.obj -c C:\\Users\\96101\\Desktop\\Maze\\src\\Stack.cpp",
+  "file": "C:/Users/96101/Desktop/Maze/src/Stack.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Maze/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Maze.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Maze.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\Maze\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/Maze/src/main.cpp"
+}
+]

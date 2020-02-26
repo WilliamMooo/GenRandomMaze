@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/96101/Desktop/Maze/src/Maze.cpp
+iostream
+-
+Stack.h
+C:/Users/96101/Desktop/Maze/src/Stack.h
+Maze.h
+C:/Users/96101/Desktop/Maze/src/Maze.h
+
